@@ -1,0 +1,196 @@
+body{
+font-family: "Baloo 2";
+background-color: #e9e2d0;
+color: #5f4444;
+}
+
+#menu{
+background-color: #eae7d9;
+}
+
+#kontak{
+background-color: #eae7d9;
+}
+
+#tentang{
+background-color: #eae7d9;
+}
+
+#copyright{
+background-color: #4a2c2c;
+color: #FDD100;
+}
+
+.pr{
+text-align: center;
+font-weight: bold;
+font-size: 1.8rem;
+}
+
+.pr2{
+text-align: center;
+font-size: 1rem;
+}
+
+h1{
+font-family: "montserrat";
+font-size: 4.2rem;
+line-height: 1.5;
+}
+
+.cr{
+font-size: 0.855rem;
+text-align: left;
+}
+
+.logopojok2{
+margin-left: auto;
+margin-top: auto;
+margin-bottom: auto;
+display: block;
+width: 8%
+}
+
+.headpromo{
+color: #3c1b1f;
+font-family: "montserrat";
+font-size: 3.5rem;
+text-align: center;
+}
+
+.headpromo2{
+font-weight: bold;
+font-size: 1.7rem;
+text-align: center;
+}
+
+.headpromo3{
+font-size: 1.3rem;
+text-align: center;
+}
+
+.headpromo4{
+color: #5f4444;
+font-size: 1.4rem;
+}
+
+.headpromo5{
+font-size: 3.5rem;
+color: #3c1b1f;
+}
+
+.headpromo6{
+font-size: 1.5rem;
+font-weight: bold;
+}
+
+.kritik{
+font-size: 1.2rem;
+}
+
+#title {
+background-color: #4a2c2c;
+color: #FDD100;
+}
+
+.phone{
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 0.7rem;
+display: block;
+width: 65%;
+}
+
+.maps{
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 0.7rem;
+display: block;
+width: 65%;
+}
+
+.title-image{
+width: 94%;
+}
+
+.logopojok{
+width: 18%;
+}
+
+.toko{
+width: 100%;
+}
+
+.product{
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 0.7rem;
+display: block;
+width: 30%;
+}
+
+.promo{
+margin-left: auto;
+margin-right: auto;
+display: block;
+width: 60%
+}
+
+.container-fluid{
+padding: 2% 13%;
+}
+
+.navbar-dark .navbar-brand {
+color: #FDD100;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+color: #FDD100;
+}
+
+.nav-item{
+padding: 0 14px;
+}
+
+.nav-link{
+font-size: 1.2rem;
+}
+
+.navbar{
+padding: 0 0 4.5rem;
+
+.navbar-brand{
+font-size: 2.5rem;
+font-weight: bold;
+}
+
+@media(max-width: 1028px){
+ #title{
+ text-align: center;
+ }
+ 
+ .cr{
+ text-align: center;
+ }
+ 
+ .pruduct{
+ position: static;
+ }
+
+ .promo{
+ position: static;
+ }
+
+ .toko{
+ position: static;
+ }
+
+ .title-image{
+ position: static;
+ }
+
+ .phone{
+ position: static;
+ }
+}
+
